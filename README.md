@@ -10,5 +10,4 @@ In this museum we chose to create a marine-themed set of exhibits. We included a
 A proximity sound effect plays when you go near the frog life cycle exhitbit. You can hear the frogs croaking as you get closer. 
 
 ## Bonus
-Bonus 1: 10+ exhibitions
-Bonus 2: The shark and fish exhibits are animated
+Bonus 1: 10+ exhibitions, Bonus 2: The shark and fish exhibits are animated
